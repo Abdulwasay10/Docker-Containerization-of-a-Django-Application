@@ -1,4 +1,3 @@
-To create a well-structured and visually appealing README for your GitHub repository, you can use Markdown to format the content. Here's a refined version of your instructions:
 
 ---
 
